@@ -1,0 +1,15 @@
+{
+  "orderId": 98765,
+  "status": "pending",
+  "schedule": false,
+  "deliveryETA": 1605019795250,
+  "liveTracking": true,
+  "riderLocation": {
+    "lat": 31.552524,
+    "lng": 74.314379
+  },
+  "shippingLocation": {
+    "lat": 31.5566123,
+    "lng": 74.3241479
+  }
+}
